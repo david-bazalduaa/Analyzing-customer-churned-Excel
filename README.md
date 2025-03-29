@@ -7,12 +7,6 @@ This project analyzes customer churn for a fictional telecom company called **Da
 ## 📌 Objective
 Understand why customers are leaving (churning), identify patterns using calculated columns and PivotTables, and design a dashboard to communicate insights clearly.
 
-## 📂 Folder Structure
-- `data/`: Contains raw and reference files (dataset and metadata).
-- `analysis/`: Contains Excel files with analysis and dashboards.
-- `docs/`: Contains additional documentation and project summary.
-- `assets/`: Visual assets such as dashboard screenshots.
-
 ## 💡 Key Questions
 - What is the overall churn rate?
 - What factors contribute most to churn?
@@ -24,6 +18,9 @@ Understand why customers are leaving (churning), identify patterns using calcula
   - Calculated columns
   - PivotTables
   - Slicers and visual dashboard elements
+  
+## Dashboard Created
+
 
 ## 📎 Credits
 Fictional case study created as part of a customer analytics practice.
